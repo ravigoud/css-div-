@@ -1,0 +1,46 @@
+
+.div{
+	background-color:black;
+	height:40px;
+	width:70px;
+	margin-left:610px;
+	margin-top:60px;
+	color:white;
+	text-align:center;
+}
+.a {
+	background-color:blue;
+	height:40px;
+	width:100px;
+	float:left;
+	}
+.b {
+	background-color:green;
+	height:40px;
+	width:200px;
+	float:left;
+}
+.c {
+	background-color:yellow;
+	height:40px;
+	width:70px;
+	float:left;
+}
+.d {
+	background-color:red;
+	height:40px;
+	width:130px;
+	float:left;
+}
+.e {
+	background-color:yellow;
+	height:40px;
+	width:80px;
+	float:left;
+}
+.f {
+	background-color:green;
+	height:40px;
+	width:200px;
+	float:left;
+}

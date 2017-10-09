@@ -1,0 +1,45 @@
+#wrapper {
+    width:715px;
+    height:100px;
+    background-color: #ADD8E6;
+ 
+}
+
+#first {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+
+#first #second{
+          
+    width: 75%;
+    height: 25%;
+    margin-top: 25%;
+    background: green;
+}
+
+#first1 {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin-left: 300px;
+}
+
+#first1 #second1{
+    width: 75%;
+    height: 25%;
+    margin-top: 25%;
+    background: green;
+}
+
+
+
+
+
+
+
+
+#clear {
+    clear: both;
+}

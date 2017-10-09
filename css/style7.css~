@@ -1,0 +1,80 @@
+
+.a {
+background-color:darkgrey;
+
+height:268px;
+width:690px;
+margin-left:400px;
+margin-top:70px;
+}
+.b {
+	background-color:navy;
+	color:white;
+	height:100px;
+	width:100px;
+	margin-left:415px;
+    margin-top:-252px;
+}
+.c {
+	background-color:navy;
+	color:white;
+	height:100px;
+	width:100px;
+	margin-left:550px;
+    margin-top:-100px;
+}
+.d {
+	background-color:navy;
+	color:white;
+	height:100px;
+	width:100px;
+	margin-left:689px;
+    margin-top:-100px;
+
+}
+.e {
+	background-color:navy;
+	color:white;
+	height:100px;
+	width:100px;
+	margin-left:834px;
+    margin-top:-100px;
+
+}
+.f {
+	background-color:navy;
+	color:white;
+	height:100px;
+	width:100px;
+	margin-left:976px;
+    margin-top:-100px;
+
+}
+
+.g {
+	background-color:navy;
+	color:white;
+	height:100px;
+	width:100px;
+	margin-left:550px;
+    margin-top:35px;
+}
+.h {
+	background-color:navy;
+	color:white;
+	height:100px;
+	width:100px;
+	margin-left:689px;
+    margin-top:-100px;
+
+}
+.i {
+	background-color:navy;
+	color:white;
+	height:100px;
+	width:100px;
+	margin-left:834px;
+    margin-top:-100px;
+
+}
+

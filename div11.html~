@@ -1,0 +1,14 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/div11.css">
+</head>
+<body>
+
+		<div id="wrapper">
+  <div id="first">  </div>
+  <div id="second"></div>
+
+</div>
+
+</body>
+</html>

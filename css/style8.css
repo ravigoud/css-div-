@@ -1,0 +1,41 @@
+
+.a {
+	border:7px solid black;
+	height:14%;
+	width:45%;
+	margin-left:28%;
+	margin-top:13%;
+}
+
+.b {
+	background-color:red;
+	height:100%;
+	width:17%;
+}
+.p {
+	background-color:white;
+	height:100%;
+	width:100%;
+	float:left;
+}
+.c {
+	background-color:red;
+	height:100%;
+	width:17%;
+	margin-left:28%;
+	margin-top:-89px;
+}
+.d {
+	background-color:red;
+	height:100%;
+	width:100%;
+	margin-left:165%;
+	margin-top:-92px;
+}
+.e {
+	background-color:red;
+	height:102%;
+	width:100%;
+	margin-left:325%;
+	margin-top:-94px;
+}

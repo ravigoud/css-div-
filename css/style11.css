@@ -1,0 +1,21 @@
+.a{
+    width:935px;
+    border: 6px solid red;
+    height: 200px;
+ 
+}
+.b {
+    border: 2px red solid;
+    width:100px;
+    float:left;
+    background-color: green;
+    height:198px;
+}
+.c {
+    
+    width:830px;
+    float:left;
+    height:201px;
+     background-color: navy;
+}
+
